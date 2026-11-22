@@ -1,66 +1,94 @@
-# CodiFlux
+<div align="center">
 
-### Code. Innovate. Deliver.
+<img src="./header.svg" alt="CodiFlux — Code. Innovate. Deliver." width="100%" />
 
-**CodiFlux** is an independent software development brand focused on building practical digital products, software solutions, mobile applications, web platforms, and developer tools.
+<br/>
 
-We combine technology, creativity, and problem-solving to turn ideas into useful digital solutions.
+### Building practical software, digital products & developer tools.
 
----
+**CodiFlux** is an independent software development brand building useful web platforms, mobile applications, business software and digital products.
 
-## What We Do
+[Website](https://codiflux.com) • [Email](mailto:support@codiflux.com) • [GitHub](https://github.com/Officialcodiflux)
 
-- **Software Development** — Custom software and business management solutions.
-- **Web Development** — Modern web applications and digital platforms.
-- **Mobile Applications** — Android applications and cross-platform mobile solutions.
-- **Digital Products** — Developing and evolving our own software products.
-- **Open Source** — Sharing useful tools, projects, and development resources with the community.
+</div>
 
 ---
 
-## Our Projects
+## What We Build
 
-We work on software products and digital solutions across different domains.
+<table>
+<tr>
+<td width="50%">
 
-| Project | Description |
+### 💻 Software & Web
+Custom business software, web applications, APIs and digital platforms.
+
+</td>
+<td width="50%">
+
+### 📱 Mobile Applications
+Practical Android and cross-platform mobile solutions.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🚀 Digital Products
+Independent software products designed to solve real-world problems.
+
+</td>
+<td width="50%">
+
+### 🌱 Open Source
+Tools, experiments and projects shared with the developer community.
+
+</td>
+</tr>
+</table>
+
+## Featured Projects
+
+| Project | Overview |
 |---|---|
-| **UDM** | Universal Download Manager |
-| **GSMManagerPro** | Mobile shop management software |
-| **ConnectHub** | Digital platform project |
-| **PakDirectory** | Pakistan-focused directory project |
-| **WhatsKart** | WhatsApp commerce platform concept |
+| **UDM** | Universal Download Manager — a downloader project in development. |
+| **GSMManagerPro** | Mobile shop management software. |
+| **ConnectHub** | Digital platform project. |
+| **PakDirectory** | Pakistan-focused directory project. |
+| **WhatsKart** | WhatsApp commerce platform concept. |
 
-*Projects evolve continuously. Availability, features and development status may vary.*
+<sub>Project availability, development status and features may change over time.</sub>
 
----
+## Tech Stack
 
-## Technology
+<div align="center">
 
-We work with modern technologies and development tools across different projects, including:
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- Laravel & PHP
-- Flutter & Dart
-- Next.js & React
-- JavaScript & TypeScript
-- MySQL & SQLite
-- Git & GitHub
-
----
+</div>
 
 ## Open Source
 
-We believe useful software, developer tools and community collaboration can help make technology more accessible.
+We aim to share selected projects, useful tools and development resources. Explore our repositories for releases, source code and project updates.
 
-Explore our repositories to discover projects, development resources and future open-source releases.
+## Connect
 
----
+<div align="center">
 
-## Connect With CodiFlux
+🌐 **[codiflux.com](https://codiflux.com)**  
+📧 **[support@codiflux.com](mailto:support@codiflux.com)**
 
-🌐 **Website:** https://codiflux.com  
-📧 **Email:** support@codiflux.com  
-💻 **GitHub:** https://github.com/Officialcodiflux
+</div>
 
----
-
-<sub>Built with curiosity, code and a commitment to practical innovation.</sub>
+<div align="center">
+<sub>Code • Innovate • Deliver</sub>
+</div>
