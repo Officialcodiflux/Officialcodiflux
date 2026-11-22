@@ -1,15 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400">
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#edf5ff"/></linearGradient><linearGradient id="blue" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0875ff"/><stop offset="1" stop-color="#00a7ee"/></linearGradient></defs>
-<rect width="1280" height="400" rx="24" fill="url(#bg)"/>
-<g opacity=".10" stroke="#0a2b70" stroke-width="1"><path d="M0 80H1280M0 160H1280M0 240H1280M0 320H1280M100 0V400M200 0V400M300 0V400M400 0V400M500 0V400M600 0V400M700 0V400M800 0V400M900 0V400M1000 0V400M1100 0V400M1200 0V400"/></g>
-<g transform="translate(875 52)">
-<circle cx="155" cy="145" r="130" fill="#fff" stroke="#001b59" stroke-width="20" stroke-dasharray="520 300" transform="rotate(-45 155 145)"/>
-<path d="M125 50h135l-25 40h-90l-30 52h115l-25 40H95l-35 62-35-20 70-125c14-28 30-49 65-49z" fill="url(#blue)"/>
-<g fill="none" stroke="#0875ff" stroke-width="8" stroke-linecap="round"><path d="M-20 120h65l38 30H-20"/><path d="M-20 170h65l38-30"/><path d="M-20 100h75l30 30"/></g><g fill="#fff" stroke="#0875ff" stroke-width="8"><circle cx="-25" cy="100" r="9"/><circle cx="-25" cy="145" r="9"/><circle cx="-25" cy="190" r="9"/></g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="460" viewBox="0 0 1280 460">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#f0f6ff"/></linearGradient><linearGradient id="blue" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0068ff"/><stop offset="1" stop-color="#08a8f5"/></linearGradient></defs>
+<rect width="1280" height="460" rx="28" fill="url(#bg)"/>
+<g transform="translate(400 25)">
+<circle cx="240" cy="190" r="150" fill="none" stroke="#061a50" stroke-width="32" stroke-dasharray="760 190" transform="rotate(-40 240 190)"/>
+<path d="M245 72h130l-26 42h-92l-26 45h127l-26 42H220l-54 85-42-23 77-133c17-34 34-58 86-58z" fill="url(#blue)"/>
+<path d="M60 130h88l52 50-52 50H60" fill="none" stroke="#0068ff" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="#fff" stroke="#0068ff" stroke-width="12"><circle cx="45" cy="130" r="12"/><circle cx="45" cy="180" r="12"/><circle cx="45" cy="230" r="12"/></g>
 </g>
-<text x="78" y="155" font-family="Arial,Helvetica,sans-serif" font-size="78" font-weight="700" fill="#071c54">Codi<tspan fill="#0875ff">Flux</tspan></text>
-<text x="83" y="215" font-family="Arial,Helvetica,sans-serif" font-size="24" letter-spacing="7" fill="#071c54">CODE · INNOVATE · DELIVER</text>
-<rect x="83" y="254" width="240" height="6" rx="3" fill="url(#blue)"/>
-<text x="83" y="300" font-family="Arial,Helvetica,sans-serif" font-size="25" fill="#24456f">Software · Apps · Digital Products</text>
-<text x="83" y="343" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#506989">Independent development studio</text>
+<text x="640" y="350" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="92" font-weight="700" fill="#061a50">Codi<tspan fill="#0875ff">Flux</tspan></text>
+<text x="640" y="400" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="24" letter-spacing="8" fill="#061a50">CODE  •  INNOVATE  •  DELIVER</text>
 </svg>
