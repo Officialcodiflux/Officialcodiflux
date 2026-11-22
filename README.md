@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./codiflux-logo.jpg" alt="CodiFlux logo" width="220" />
+<img src="https://github.com/Officialcodiflux.png" alt="CodiFlux logo" width="220" />
 
 ### Independent Software Development · Digital Products
 
