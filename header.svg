@@ -1,14 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360">
-<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1737"/><stop offset="1" stop-color="#102d61"/></linearGradient><linearGradient id="a" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#31c5f4"/><stop offset="1" stop-color="#4587ff"/></linearGradient></defs>
-<rect width="1280" height="360" rx="26" fill="url(#g)"/>
-<g opacity=".13" stroke="#77d7ff" stroke-width="1"><path d="M0 50H1280M0 110H1280M0 170H1280M0 230H1280M0 290H1280M80 0V360M160 0V360M240 0V360M320 0V360M400 0V360M480 0V360M560 0V360M640 0V360M720 0V360M800 0V360M880 0V360M960 0V360M1040 0V360M1120 0V360M1200 0V360"/></g>
-<circle cx="1070" cy="180" r="145" fill="#10264c" stroke="#2a68aa" stroke-width="2"/>
-<circle cx="1070" cy="180" r="105" fill="none" stroke="url(#a)" stroke-width="4" stroke-dasharray="330 330" transform="rotate(-40 1070 180)"/>
-<path d="M1120 125H1045L1000 180l45 55h75" fill="none" stroke="#35b9f4" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M1080 145l-38 35 38 35" fill="none" stroke="#75d8ff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="1000" cy="180" r="9" fill="#4fe0ff"/><circle cx="1120" cy="125" r="9" fill="#4fe0ff"/><circle cx="1120" cy="235" r="9" fill="#4fe0ff"/>
-<text x="82" y="145" font-family="Arial,Helvetica,sans-serif" font-size="76" font-weight="700" fill="#ffffff">Codi<tspan fill="url(#a)">Flux</tspan></text>
-<text x="86" y="200" font-family="Arial,Helvetica,sans-serif" font-size="24" letter-spacing="5" fill="#b9d9f5">CODE • INNOVATE • DELIVER</text>
-<rect x="86" y="244" width="220" height="5" rx="3" fill="url(#a)"/>
-<text x="86" y="286" font-family="Arial,Helvetica,sans-serif" font-size="21" fill="#e4f1ff">Software · Digital Products · Open Source</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#edf5ff"/></linearGradient><linearGradient id="blue" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0875ff"/><stop offset="1" stop-color="#00a7ee"/></linearGradient></defs>
+<rect width="1280" height="400" rx="24" fill="url(#bg)"/>
+<g opacity=".10" stroke="#0a2b70" stroke-width="1"><path d="M0 80H1280M0 160H1280M0 240H1280M0 320H1280M100 0V400M200 0V400M300 0V400M400 0V400M500 0V400M600 0V400M700 0V400M800 0V400M900 0V400M1000 0V400M1100 0V400M1200 0V400"/></g>
+<g transform="translate(875 52)">
+<circle cx="155" cy="145" r="130" fill="#fff" stroke="#001b59" stroke-width="20" stroke-dasharray="520 300" transform="rotate(-45 155 145)"/>
+<path d="M125 50h135l-25 40h-90l-30 52h115l-25 40H95l-35 62-35-20 70-125c14-28 30-49 65-49z" fill="url(#blue)"/>
+<g fill="none" stroke="#0875ff" stroke-width="8" stroke-linecap="round"><path d="M-20 120h65l38 30H-20"/><path d="M-20 170h65l38-30"/><path d="M-20 100h75l30 30"/></g><g fill="#fff" stroke="#0875ff" stroke-width="8"><circle cx="-25" cy="100" r="9"/><circle cx="-25" cy="145" r="9"/><circle cx="-25" cy="190" r="9"/></g>
+</g>
+<text x="78" y="155" font-family="Arial,Helvetica,sans-serif" font-size="78" font-weight="700" fill="#071c54">Codi<tspan fill="#0875ff">Flux</tspan></text>
+<text x="83" y="215" font-family="Arial,Helvetica,sans-serif" font-size="24" letter-spacing="7" fill="#071c54">CODE · INNOVATE · DELIVER</text>
+<rect x="83" y="254" width="240" height="6" rx="3" fill="url(#blue)"/>
+<text x="83" y="300" font-family="Arial,Helvetica,sans-serif" font-size="25" fill="#24456f">Software · Apps · Digital Products</text>
+<text x="83" y="343" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#506989">Independent development studio</text>
 </svg>
