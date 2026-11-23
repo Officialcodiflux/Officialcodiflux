@@ -12,6 +12,20 @@
 
 ---
 
+## Featured Product
+
+<div align="center">
+
+### 🚀 UDM — Universal Download Manager
+
+A dedicated download manager project focused on bringing download tasks and management into one practical desktop tool.
+
+<sub>Project in development</sub>
+
+</div>
+
+---
+
 ## Projects
 
 ### Business Software
@@ -85,10 +99,10 @@ Digital platform project.
 
 <table>
 <tr>
-<td width="50%" valign="top">**UDM — Universal Download Manager**<br/>Download manager project.</td>
-<td width="50%" valign="top">**GMap & Social Extractors**<br/>Data extraction tool experiments.</td>
+<td width="50%" valign="top"><strong>GMap & Social Extractors</strong><br/>Data extraction tool experiments.</td>
 </tr>
 </table>
+</div>
 
 <sub>Projects may be private, experimental, planned or under development. This overview does not imply that every project is publicly released.</sub>
 
