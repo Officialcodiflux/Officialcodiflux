@@ -1,114 +1,130 @@
 <div align="center">
 
-<img src="https://github.com/Officialcodiflux.png" alt="CodiFlux logo" width="220" />
+<img src="https://github.com/Officialcodiflux.png" alt="CodiFlux logo" width="180" />
 
-### Independent Software Development · Digital Products
+# CodiFlux
 
-**We build practical software, mobile apps, web platforms and developer tools.**
+**CODE · INNOVATE · DELIVER**
 
-[Website](https://codiflux.com) · [Email](mailto:support@codiflux.com) · [Repositories](https://github.com/Officialcodiflux?tab=repositories)
+<sub>Software Development · Digital Products · Developer Tools</sub>
+
+[Website](https://codiflux.com) &nbsp; · &nbsp; [Email](mailto:support@codiflux.com) &nbsp; · &nbsp; [GitHub Repositories](https://github.com/Officialcodiflux?tab=repositories)
 
 </div>
 
 ---
-
-## Featured Product
 
 <div align="center">
 
+## Featured Product
+
 ### 🚀 UDM — Universal Download Manager
 
-A dedicated download manager project focused on bringing download tasks and management into one practical desktop tool.
+A desktop download manager project aimed at making download tasks and management simple and practical.
 
-<sub>Project in development</sub>
+<sub>Currently in development</sub>
 
 </div>
 
 ---
 
-## Projects
+## Our Projects
 
-### Business Software
+### <sub>BUSINESS SOFTWARE</sub>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**GSMManagerPro**
-
-Mobile shop management platform covering sales, inventory, IMEI, repairs and shop workflows.
+### GSMManagerPro
+Mobile shop management platform for sales, inventory, IMEI tracking, repairs and shop workflows.
 
 </td>
 <td width="50%" valign="top">
 
-**Mobile-CBM**
-
-Mobile-focused business management project.
+### Mobile-CBM
+Mobile-focused business management software project.
 
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
-**WhatsKart**
-
-WhatsApp commerce platform concept.
-
-</td>
-<td valign="top">
-
-**ConnectHub**
-
+### ConnectHub
 Digital platform project.
 
 </td>
+<td width="50%" valign="top">
+
+</td>
 </tr>
 </table>
 
-### Mobile Apps
+### <sub>MOBILE & APPLICATIONS</sub>
 
 <table>
 <tr>
-<td width="50%" valign="top">**Hidayah**<br/>Faith-focused mobile app project.</td>
-<td width="50%" valign="top">**Noor Hadith**<br/>Hadith-focused app project.</td>
+<td width="50%" valign="top">
+
+### Hidayah
+Faith-focused mobile application project.
+
+</td>
+<td width="50%" valign="top">
+
+### QuizFlux
+Quiz and learning application project.
+
+</td>
 </tr>
 <tr>
-<td valign="top">**QuizFlux**<br/>Quiz and learning app project.</td>
-<td valign="top">**Aaj Ka Sitara**<br/>Daily horoscope-themed app project.</td>
+<td width="50%" valign="top">
+
+### CodiFlux Recipes
+Recipe-focused mobile app project.
+
+</td>
+<td width="50%" valign="top">
+
+### PakDirectory
+Pakistan-focused directory application.
+
+</td>
 </tr>
 <tr>
-<td valign="top">**CodiFlux Call Recorder**<br/>Call recording app project.</td>
-<td valign="top">**CodiFlux Recipes**<br/>Recipe-focused app project.</td>
+<td width="50%" valign="top">
+
+### Paper Composer
+Application project.
+
+</td>
+<td width="50%" valign="top">
+
+</td>
 </tr>
 </table>
 
-### Web Platforms
+### <sub>DEVELOPER TOOLS</sub>
 
 <table>
 <tr>
-<td width="50%" valign="top">**PakDirectory**<br/>Pakistan-focused directory platform.</td>
-<td width="50%" valign="top">**Food Discovery**<br/>Food discovery experiment.</td>
-</tr>
-<tr>
-<td valign="top">**Paper Composer**<br/>Application project.</td>
-<td valign="top">**Web Experiments**<br/>Prototypes and platform concepts.</td>
-</tr>
-</table>
+<td width="50%" valign="top">
 
-### Developer Tools
+### GMap & Social Extractors
+Data extraction tool experiments.
 
-<table>
-<tr>
-<td width="50%" valign="top"><strong>GMap & Social Extractors</strong><br/>Data extraction tool experiments.</td>
+</td>
+<td width="50%" valign="top">
+
+</td>
 </tr>
 </table>
-</div>
 
-<sub>Projects may be private, experimental, planned or under development. This overview does not imply that every project is publicly released.</sub>
+<sub>Some projects are private or in development. Portfolio inclusion does not imply public availability.</sub>
 
 ---
 
-## Tech Stack
+## Technologies
 
 <div align="center">
 
@@ -129,7 +145,7 @@ Digital platform project.
 
 <div align="center">
 
-**CODE · INNOVATE · DELIVER**
+**Building useful digital solutions.**
 
 [Website](https://codiflux.com) · [Contact](mailto:support@codiflux.com)
 
